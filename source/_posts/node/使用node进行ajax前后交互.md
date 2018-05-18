@@ -1,7 +1,8 @@
 ---
 title: 使用node进行ajax前后交互
 date: 2018-05-02 19:28:50
-tags:
+categories:
+- node
 ---
 # 页面ajax
     function changePasswordAjax(newPassword){

@@ -1,7 +1,8 @@
 ---
 title: JS
+date: 2018-04-28 09:23:44
 categories:
-- js  
+- js   
 ---
 # JavaScript输出消息
 ## 1.window的方法

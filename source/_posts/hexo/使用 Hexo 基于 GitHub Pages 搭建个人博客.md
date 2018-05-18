@@ -1,7 +1,8 @@
 ---
 title: 使用 Hexo 基于 GitHub Pages 搭建个人博客
+date: 2018-04-26 10:40:45
 categories:
-- hexo 
+- hexo
 ---
 # Hexo 安装
 	npm install hexo-cli -g	
