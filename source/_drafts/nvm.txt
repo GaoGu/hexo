@@ -1,0 +1,14 @@
+
+https://blog.csdn.net/qq_27626333/article/details/77857223
+
+settings.txt
+
+  root: D:\dev\nvm 
+  path: D:\dev\nodejs 
+  arch: 64 
+  proxy: http://proxy.piccnet.com.cn:3128/
+  node_mirror: http://npm.taobao.org/mirrors/node/ 
+  npm_mirror: https://npm.taobao.org/mirrors/npm/
+  
+因为在中科软有外网代理先设置npm再下载nrm
+npm设置代理npm config set proxy=http://127.0.0.1:8087

@@ -1,0 +1,33 @@
+熟悉socket.io，linux安装mysql，会sql操作，增删改查，建表，数据备份，导入导出等
+node模块：mysql express 网页模板ejb，session，日志管理
+精通express的get，post,use和中间件管理
+精通javascript 掌握js面向对象的编程思想，继承，原型，闭包的使用
+
+基本的node特性，事件驱动、 非阻塞I/O、Stream，异步控制流程相关，promise
+web框架 express、koa、 会遇到哪些问题，前端优化
+数据库相关 sql、缓存、mongodb
+对node常见模块和工具的使用，观察是否爱学习，爱折腾
+
++分
+熟悉linux，独立部署过服务器
+js语法和es6、es7，延伸CoffeeScript、TypeScript等，看看你是否关注新技术，有+分
+对前端了解
+开源项目，技术博客
+
+服务端工程师nodejs方向任职要求：
+1、JavaScript 基本功扎实，掌握js面向对象的编程思想能熟练使用 Closure、Callback、Promise等；
+2、熟练掌握 NodeJS 核心模块和常见中间件 (如 Express) 的使用，理解 NodeJS 异步非阻塞的编程模型；
+3、 熟悉 Web 后台架构、性能优化、Restful API及数据库的查询和使用；
+4、熟悉 Mongo 、sqlserver等数据库的基本使用；
+5、对数据结构和算法有深入了解，读过《算法导论》更佳。
+薪资15K——25K，地点中关村立方庭
+
+
+服务端工程师nodejs方向任职要求：
+1、JavaScript 基本功扎实，掌握js面向对象的编程思想,继承，原型,熟练使用 Closure、Callback、Promise等；
+2、熟练掌握 NodeJS 核心模块和常见中间件 (如 Express) 的使用，理解 NodeJS 异步非阻塞的编程模型
+精通express的get，post,use和中间件管理，mysql express 网页模板ejb，session，日志管理
+3、数据库相关 sql、缓存、mongodb
+4、熟悉 Web 后台架构、性能优化、Restful API及数据库的查询和使用；
+5、对数据结构和算法有深入了解，读过《算法导论》更佳。常见数据结构和算法
+薪资15K——25K，地点中关村立方庭

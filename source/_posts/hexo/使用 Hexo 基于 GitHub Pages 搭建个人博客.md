@@ -21,6 +21,8 @@ categories:
 # 新建一篇博客文章
 	hexo new "开始blog，哈哈"
 打开 Hexo 目录下的 source\_posts 目录就可以看见创建的文章
+# 新建草稿
+	hexo new draft "new draft"
 # 主题安装
 [Next 主题 GitHub 地址](https://github.com/iissnan/hexo-theme-next)
 

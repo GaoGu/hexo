@@ -1,0 +1,6 @@
+启动项目报了java.lang.OutOfMemoryError: PermGen space
+
+https://www.cnblogs.com/learnapi/archive/2017/10/09/7641591.html
+通过Window->Preferences->MyEclipse->Servers->Tomcat x.x->JDK->Optional Java VM arguments:
+-Xms512m -Xmx1024m -XX:PermSize=128M -XX:MaxPermSize=256M　　
+问题解决

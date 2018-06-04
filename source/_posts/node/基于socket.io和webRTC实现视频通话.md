@@ -12,3 +12,10 @@ WebRTC是一个开源项目，旨在使得浏览器能为实时通信（RTC）�
 [WebRTC基于node的实例](https://blog.csdn.net/qq_24949727/article/details/68927202)
 
 [WebRTC官网](https://webrtc.org/)
+
+
+https://www.baidu.com/link?url=kGtaoIHEe0kAX26xkbLBhO_RUUivaEMD1YKebd9mQ-4YETx8eKsqBhsKfBnYDDeVhvT7wpO_WyMi5kPO2gxqlFgbFOQkMPHb2nQLXW_w5LG&wd=&eqid=92ae45ca00016c24000000025b0bba50
+
+https://www.baidu.com/link?url=npBERu0tFtKNuWmERWB4jAZ1urgt520zgsAXLnurQQqYmmi2pLr4TL-xfXxf3v3Rj8r-ZtWi8dcizxzpGMME-a&wd=&eqid=f9913db7000101ac000000025b0bb787
+
+https://zhuanlan.zhihu.com/p/32093871

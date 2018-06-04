@@ -1,0 +1,40 @@
+﻿mongodb使用在mongodb\bin目录下执行
+进入mongodb自带shell操作
+window下 ： mongo
+linux下：./mongo
+
+查看数据库 show dbs
+切换数据库 use dbname
+查看当前数据库 db
+查看所有集合 db.getCollectionNames()
+查看集合数据 db.collection.find({"by":"菜鸟教程", "title":"MongoDB 教程"})
+查看集合数据补充 	db.collection.find(query, {title: 1, by: 1}) // inclusion模式 指定返回的键，不返回其他键
+					db.collection.find(query, {title: 0, by: 0}) // exclusion模式 指定不返回的键,返回其他键
+					db.col.find().pretty() pretty() 方法以格式化的方式来显示所有文档。
+更新数据  db.User.update({"_id":"4100000029"},{$set:{"comCode":"32012345" } })
+
+删除文档 db.ChatList.remove({})
+				
+redis-cli启动redis命令行
+get key查询数据
+DEL key删除数据
+
+在远程操作linux测试库时出现权限问题
+> show dbs
+2018-04-11T17:05:04.362+0800 E QUERY    [thread1] Error: listDatabases failed:{
+	"ok" : 0,
+	"errmsg" : "not authorized on admin to execute command { listDatabases: 1.0 }",
+	"code" : 13,
+	"codeName" : "Unauthorized"
+} :
+模糊查询
+       LIKE模糊查询userName包含A字母的数据(%A%)
+       SQL:SELECT * FROM UserInfo WHERE userName LIKE "%A%"
+       MongoDB:db.UserInfo.find({userName :/A/})
+	   db.User.find({"comCode":/3201/})
+
+
+       LIKE模糊查询userName以字母A开头的数据(A%)。
+       SQL:SELECT * FROM UserInfo WHERE userName LIKE "A%"
+       MongoDB:db.UserInfo.find({userName :/^A/})
+	   db.User.find({"comCode":/^3201/})

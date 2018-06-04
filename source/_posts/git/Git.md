@@ -162,6 +162,8 @@ Git鼓励大量使用分支：
 
 	git branch
 
+#### 查看远程分支：
+	git branch -a
 #### 创建分支：
 
 	git branch <name>

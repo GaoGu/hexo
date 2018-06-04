@@ -1,0 +1,5 @@
+vscode新开窗口覆盖原来的窗口
+
+为此可以打开文件->首选项->用户设置
+
+"workbench.editor.enablePreview": false,

@@ -1,0 +1,4 @@
+https://www.runoob.com/mongodb/mongodb-window-install.html
+
+C:\mongodb\bin\mongod.exe --config "C:\mongodb\mongod.cfg" --install
+执行这个命令时，以管理员身份运行cmd，执行成功后会在db和log下生成文件
