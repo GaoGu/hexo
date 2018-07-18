@@ -1,0 +1,7 @@
+overflow: hidden; /* 超出隐藏 */
+text-overflow: ellipsis; /* 文字省略号 */
+word-break: keep-all; /* 禁止文字中断 */
+white-space: nowrap; /* 空白不允许换行 */
+
+CSS 实现隐藏滚动条同时又可以滚动
+.element::-webkit-scrollbar {display:none}
